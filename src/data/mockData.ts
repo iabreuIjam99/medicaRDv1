@@ -8,7 +8,7 @@ import {
 } from '../types/medical';
 
 export const HERO_CLINIC_IMAGE =
-  '/src/assets/images/hero_clinic_consultation_1795649195251.jpg';
+  './src/assets/images/hero_clinic_consultation_1795649195251.jpg';
 
 export const ARS_PROVIDERS = [
   'ARS Humano',
@@ -113,7 +113,7 @@ export const DOCTORS: Doctor[] = [
     languages: ['Español', 'Inglés'],
     acceptedArs: ['ARS Humano', 'Seguros Reservas', 'ARS Universal', 'SeNaSa Contributivo'],
     availableTimes: ['08:30', '09:30', '10:30', '11:30', '14:30', '15:30', '16:30'],
-    imageUrl: '/src/assets/images/doctor_cardiology_female_1795649195096.jpg',
+    imageUrl: './src/assets/images/doctor_cardiology_female_1795649195096.jpg',
     initials: 'EV',
   },
   {
@@ -130,7 +130,7 @@ export const DOCTORS: Doctor[] = [
     languages: ['Español', 'Inglés'],
     acceptedArs: ['ARS Humano', 'Seguros Reservas', 'ARS Universal', 'SeNaSa Contributivo'],
     availableTimes: ['08:00', '09:00', '10:00', '11:00', '14:00', '15:00', '16:00'],
-    imageUrl: '/src/assets/images/doctor_pediatrics_male_1795649198245.jpg',
+    imageUrl: './src/assets/images/doctor_pediatrics_male_1795649198245.jpg',
     initials: 'AR',
   },
   {
@@ -147,7 +147,7 @@ export const DOCTORS: Doctor[] = [
     languages: ['Español', 'Inglés', 'Francés'],
     acceptedArs: ['ARS Humano', 'ARS Universal', 'Seguros Reservas'],
     availableTimes: ['09:00', '10:00', '11:00', '14:00', '15:00', '16:30'],
-    imageUrl: '/src/assets/images/doctor_dermatology_female_1795649197577.jpg',
+    imageUrl: './src/assets/images/doctor_dermatology_female_1795649197577.jpg',
     initials: 'AR',
   },
   {
@@ -164,7 +164,7 @@ export const DOCTORS: Doctor[] = [
     languages: ['Español', 'Inglés'],
     acceptedArs: ['ARS Humano', 'Seguros Reservas', 'ARS Universal', 'SeNaSa Contributivo'],
     availableTimes: ['08:30', '09:30', '11:00', '14:30', '16:00'],
-    imageUrl: '/src/assets/images/doctor_orthopedics_male_1795649198100.jpg',
+    imageUrl: './src/assets/images/doctor_orthopedics_male_1795649198100.jpg',
     initials: 'AV',
   },
   {

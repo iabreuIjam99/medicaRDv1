@@ -1,0 +1,6 @@
+{
+  "name": "MedicaRD",
+  "description": "Prototipo interactivo de gestión de citas médicas, portal de pacientes y agenda clínica para MedicaRD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
